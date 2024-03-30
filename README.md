@@ -32,6 +32,16 @@ This repo houses scripts and resources for a thorough examination of performance
 
 1. Analyze the results stored in the [`plots`](./plots) directory to understand the performance characteristics of each language.
 
+## 📊 Results
+
+After running the benchmarks and plotting the results, C fib algorithm had the fastest execution times, followed by Rust, Go, Julia, TypeScript, and Python.
+
+![Matplotlib Plot](https://github.com/wiseaidev/truster/assets/62179149/3ad1e47d-1cd9-424b-b133-c69019c66000)
+
+![Matplotlib](https://github.com/wiseaidev/truster/assets/62179149/6f73da55-96b5-4840-b5f2-fc76dcec72c4)
+
+![Plotters](https://github.com/wiseaidev/truster/assets/62179149/71b37290-b5cd-4928-9187-5ab67d9250d6)
+
 ## 🤝 Contributing
 
 Contributions to this study are welcome! If you have suggestions for improvements, additional benchmarks, or insights to share, feel free to open an issue or submit a pull request.
